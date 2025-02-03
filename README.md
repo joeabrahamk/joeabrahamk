@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)](https://joeabrahamk.io)
 
 <h1 align="center">Hi 👋, Myself Joe Abraham K</h1>
-<h3 align="center">In a world where every second counts, I embrace the art of mastering time. With a finely tuned sense of precision, I seamlessly align myself with the rhythm of productivity. Curiosity fuels my desire to continually learn and adapt, allowing me to swiftly absorb new knowledge and apply it effectively. As a natural leader, I find joy in empowering others to discover their potential and thrive.</h3>
+<h3 align="center">Beep Boop Bleep... Compiling my life, one semicolon at a time.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
 
